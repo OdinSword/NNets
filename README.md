@@ -1,2 +1,2 @@
-# NN
+# Implemented Neural Nets from scratch.
  
